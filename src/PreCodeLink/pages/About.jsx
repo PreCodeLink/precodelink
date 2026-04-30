@@ -40,7 +40,7 @@ const About = () => {
 
             {/* Overlay Card */}
             <div className="absolute bottom-6 left-6 bg-black/70 backdrop-blur-lg p-4 rounded-xl border border-gray-800">
-              <h4 className="font-semibold">Bashir (Garkuwa)</h4>
+              <h4 className="font-semibold">Bashir Lawal (Garkuwa)</h4>
               <p className="text-blue-400 text-sm">CEO & Lead Developer</p>
             </div>
           </div>
