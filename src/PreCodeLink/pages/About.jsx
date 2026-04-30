@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "../layouts/Layout";
 import ceo from "../assests/images/profile.png"
-import WhatsAppFloat from "../components/whatsapp";
+import WhatsAppFloat from "../components/Whatsapp";
 
 const About = () => {
   return (
