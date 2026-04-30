@@ -5,7 +5,7 @@ import Projects from '../section/Projects'
 import Services from '../section/Servicess'
 import CTA from '../section/CTA'
 import Layout from '../layouts/Layout'
-import WhatsAppFloat from '../components/whatsapp'
+import WhatsAppFloat from '../components/Whatsapp'
 
 const Home = () => {
   return (
