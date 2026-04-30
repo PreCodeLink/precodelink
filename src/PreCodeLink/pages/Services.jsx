@@ -1,4 +1,4 @@
-import WhatsAppFloat from "../components/whatsapp";
+import WhatsAppFloat from "../components/Whatsapp";
 import Layout from "../layouts/Layout";
 
 const services = [
