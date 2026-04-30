@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Layout from "../layouts/Layout";
-import WhatsAppFloat from "../components/whatsapp";
+import WhatsAppFloat from "../components/Whatsapp";
 
 const Contact = () => {
   const [form, setForm] = useState({
